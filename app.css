@@ -1,0 +1,17 @@
+* {
+  margin: 0px;
+  font-family: "Roboto";
+}
+.logoContainer {
+  background-color: #faec4b;
+  text-align: center;
+}
+.banner {
+  height: 80px;
+}
+.appIcon {
+  height: 120px;
+  width: 120px;
+  border-radius: 40px;
+  margin-top: 65px;
+}
